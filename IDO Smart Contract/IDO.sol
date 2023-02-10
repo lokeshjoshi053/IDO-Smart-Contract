@@ -100,4 +100,3 @@ contract IDO is ERC20Permit, ERC20Pausable, AccessControl, Ownable2Step {
     }
 }
 
-@custom:dev-run-script file_path
