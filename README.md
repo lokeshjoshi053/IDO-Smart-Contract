@@ -1,0 +1,3 @@
+A smart contract is a self-executing digital agreement that enables two or more parties to conduct business directly with one another. It is an application that runs on a blockchain network, which is a secure and decentralised network that keeps a shared ledger of all transactions.
+
+Smart contracts are frequently used to automate contract execution, enforce the contract's terms and conditions, and guarantee that all parties adhere to the agreement. They are typically used for financial transactions, such as the sale of assets, the issuing of loans, and the payment of dividends, but can also be used for a range of other applications, such as supply chain management, digital identity, and voting systems.
